@@ -8,6 +8,12 @@ A super simple Auto Clicker Script I wrote in python on *August 27, 2024*.
 
 Run it, press "P" on your keyboard to toggle it on/off and have at it. Since it is simple, there is no sound or image notifying that it is on. Be careful with it.
 
+## Information
+- **Project ID**: 240827
+- **Creator**: Norman Santos (normanwhittlecliff)
+- **Date of Creation**: August 27, 2024
+- **Language**: Python
+
 ## Dependencies
 
 - **Python 3**: I assume you already have it in your computer, but yeah, this one is needed to run the script.
