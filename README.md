@@ -1,5 +1,7 @@
 <!-- COMMENT BEGINS
 # 240827-Simple-Auto-Clicker-Script
+
+# 1
 COMMENT ENDS --> 
 
 # Simple Auto Clicker Script
